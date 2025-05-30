@@ -1,7 +1,3 @@
-Great! Here's a **GitHub-style presentation outline** for your Task 4: Dashboard Design project. This format is ideal for uploading as a `README.md` or sharing on GitHub Pages to explain your Tableau dashboard work.
-
----
-
 # 📊 Task 4: Dashboard Design – Sales & Profit Analysis
 
 ## ✅ Objective
@@ -117,4 +113,7 @@ The dataset contains financial records including:
 * Learned how to build dashboards that inform real business decisions
 
 ---
+![task 4 dashboard 1](https://github.com/user-attachments/assets/ecd61be0-294e-4126-9de3-c8c1daac3149)
+![task 4 dashboard 2](https://github.com/user-attachments/assets/ab5ff11f-14a6-49fc-8a6f-2b81ea87a988)
+
 
