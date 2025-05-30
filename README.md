@@ -80,24 +80,6 @@ The dataset contains financial records including:
 * Highlights profitable market segments
 * Supports data-driven decision-making and strategic planning
 
----
-
-## 📂 Project Structure
-
-```
-📁 dashboard-design-task4/
-├── 📊 Tableau Dashboards
-│   ├── Sales Dashboard.twbx
-│   └── Profit Dashboard.twbx
-├── 📷 Screenshots
-│   ├── sales_dashboard.png
-│   └── profit_dashboard.png
-├── 📄 README.md (this file)
-└── 📂 Assets (optional for logos, images, etc.)
-```
-
----
-
 ## 🚀 How to Use
 
 1. Download the Tableau dashboards from this repo.
