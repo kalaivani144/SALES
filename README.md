@@ -98,7 +98,7 @@ The dataset contains financial records including:
 ![task 4 dashboard 1](https://github.com/user-attachments/assets/ecd61be0-294e-4126-9de3-c8c1daac3149)
 ![task 4 dashboard 2](https://github.com/user-attachments/assets/ab5ff11f-14a6-49fc-8a6f-2b81ea87a988)
 
-SOME SCREENSHORT PROOF DASHBOARD:
+SOME SCREENSHORT OF DASHBOARD:
 ![task 4 ss1](https://github.com/user-attachments/assets/c757e5e0-edaf-4bc9-a88a-b268c5768acf)
 ![task 2 ss2](https://github.com/user-attachments/assets/64a8b049-ce1c-4e5b-9157-1dd9d8ae9821)
 ![task 2 ss3](https://github.com/user-attachments/assets/7ac55147-7c64-4d30-b517-186e3b5993f4)
